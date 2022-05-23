@@ -1,0 +1,21 @@
+.acf-block-preview .big-book-slide{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999;
+	padding: 20px;
+}
+
+
+.acf-block-preview .default-header{
+	display: block;
+	position: relative;
+	width: 100%;
+	text-align: center;
+}
+
+.acf-block-preview .default-header span{
+	display: block;
+	position: relative;
+	width: 100%;
+	text-align: center;
+}
